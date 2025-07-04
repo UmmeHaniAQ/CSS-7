@@ -1,0 +1,319 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+@media only screen and (min-width: 1400px){
+
+    .box{
+        background-color: rgb(224, 81, 81); 
+    }
+
+
+@media only screen and (min-width: 1400px){
+    
+    .box{
+        background-color: rgb(224, 81, 81); 
+    }
+}
+
+@media  only screen and (min-width: 400px) and (max-width:1400px){
+    .box{
+        background-color: rgb(224, 81, 81); 
+    }
+}
+    
+}   
+
+
+.navbar{
+    background-color: rgb(223, 218, 218);
+    overflow: hidden;
+    max-width: 1400px;
+    height: 80px;
+}
+
+.navbar img{
+    position: relative;
+    left: 20px;
+    top: 15px;
+}
+
+.navbar h1{
+    position: relative;
+    left:80px;
+    bottom:30px;
+}
+
+.navbar a{
+    position: relative;
+    left: 350px;
+    bottom: 59px;
+    padding: 40px;
+    color: black;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.navbar .login{
+    position: relative;
+    left: 400px;
+    color:black;
+
+}
+
+.navbar button{
+    position: relative;
+    left: 430px;
+    padding: 10px;
+    bottom:70px;
+    color: white;
+    border-radius: 10%;
+    font-size: 20px;
+    background-color: blue;
+    cursor: pointer;
+}
+
+
+.box-1{
+    position: relative;
+    top:0px;
+    background-color: white;
+    width: 50%;
+    height: 500px;
+}
+
+.box-1 .head1{
+    position: relative;
+    left: 90px;
+    top: 70px;
+    font-size: 50px;
+    font-weight: none;
+}
+
+.box-1 .para1{
+    position: relative;
+    left: 90px;
+    top: 70px;
+    font-size: 19px;
+    font-weight: none;
+}
+
+.box-1 img{
+    position: relative;
+    left: 100px;
+    top: 120px;
+}
+
+.box-2{
+    position: relative;
+    bottom:500px;
+    left:675px ;
+    background-color: white;
+    width: 50%;
+    height: 500px;
+}
+
+.box-2 img{
+    position: relative;
+    left: 200px;
+    top:29px;
+    width: 350px;
+}
+
+.box-3{
+    position: relative;
+    bottom:500px;
+    background-color: white;
+    width:40%px;
+}
+
+.box-3 img{
+    position: relative;
+    width: 1000px;
+    left: 200px;
+}
+
+.box-4{
+    position: relative;
+    bottom:450px;
+    background-color: white;
+    width:40%px;
+}
+
+.box-4 img{
+    position: relative;
+    width: 1000px;
+    left: 200px;
+}
+
+.box-5{
+    position: relative;
+    bottom:400px;
+    background-color: white
+    width:40%px;
+}
+
+.box-5 img{
+    position: relative;
+    width: 950px;
+    left: 200px;
+}
+
+.box-6{
+    position: relative;
+    bottom:360px;
+    background-color: white
+    width:40%px;
+}
+
+.box-6 img{
+    position: relative;
+    width: 950px;
+    left: 200px;
+}
+
+.box-7{
+    position: relative;
+    bottom:350px;
+    background-color: white
+    width:40%px;
+}
+
+.box-7 img{
+    position: relative;
+    width: 950px;
+    left: 200px;
+}
+
+.box-8{
+    position: relative;
+    bottom:320px;
+    background-color: white;
+    width:40%px;
+}
+
+.box-8 img{
+    position: relative;
+    width: 1100px;
+    left: 120px;
+}
+
+.box-9{
+    position: relative;
+    bottom:310px;
+    background-color: white;
+    width:40%px;
+}
+
+.box-9 img{
+    position: relative;
+    width: 1000px;
+    left: 170px;
+}
+
+.box-10{
+    position: relative;
+    bottom:310px;
+    background-color: white;
+    width:40%px;
+}
+
+.box-10 img{
+    position: relative;
+    width: 900px;
+    left: 220px;
+}
+
+.box-11{
+    position: relative;
+    bottom:310px;
+    background-color: white;
+    width:40%px;
+}
+
+.box-11 img{
+    position: relative;
+    width: 900px;
+    left: 220px;
+}
+
+.box-12{
+    position: relative;
+    bottom:300px;
+    background-color: white;
+    width:40%px;
+}
+
+.box-12 img{
+    position: relative;
+    width: 1300px;
+    left: 20px;
+}
+
+.box-13{
+    position: relative;
+    bottom:290px;
+    background-color: white;
+    width:40%px;
+}
+
+.box-13 img{
+    position: relative;
+    width: 1000px;
+    left: 170px;
+}
+
+.box-14{
+    position: relative;
+    bottom:290px;
+    background-color: white;
+    width:40%px;
+}
+
+.box-14 img{
+    position: relative;
+    width: 900px;
+    left: 240px;
+}
+
+.box-15{
+    position: relative;
+    bottom:290px;
+    background-color: white;
+    width:40%px;
+}
+
+.box-15 img{
+    position: relative;
+    width: 700px;
+    left: 310px;
+}
+
+.box-16{
+    position: relative;
+    bottom:280px;
+    background-color: white;
+    width:40%px;
+}
+
+.box-16 img{
+    position: relative;
+    width: 900px;
+    left: 210px;
+}
+
+.box-17{
+    position: relative;
+    bottom:270px;
+    background-color: white;
+    width:40%px;
+}
+
+.box-17 img{
+    position: relative;
+    width: 900px;
+    left: 240px;
+}
